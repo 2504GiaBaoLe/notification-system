@@ -10,7 +10,7 @@ async function sendMessage() {
 
   const message = {
     userId: 1,
-    message: "Đơn hàng đã được tạo thành công!"
+    message: "Đơn hàng đã được tạo thành công!"   
   };
 
   channel.sendToQueue(queue, Buffer.from(JSON.stringify(message)));
