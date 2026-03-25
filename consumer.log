@@ -1,0 +1,26 @@
+2026-03-25T06:03:27.761Z [info] 🚀 Consumer đang chạy...
+2026-03-25T06:04:00.566Z [info] 📩 Nhận thông báo: Đơn hàng đã được tạo thành công!
+2026-03-25T06:04:20.789Z [warn] ⚠️ Tin nhắn trùng, bỏ qua: Đơn hàng đã được tạo thành công!
+2026-03-25T06:04:29.361Z [warn] ⚠️ Tin nhắn trùng, bỏ qua: Đơn hàng đã được tạo thành công!
+2026-03-25T06:05:23.845Z [info] 📩 Nhận thông báo: Hello Bao
+2026-03-25T06:05:25.860Z [warn] ⚠️ Tin nhắn trùng, bỏ qua: Hello Bao
+2026-03-25T06:15:13.366Z [info] 📩 Nhận thông báo: Đơn hàng đã được tạo thành công!
+2026-03-25T06:15:42.639Z [warn] ⚠️ Tin nhắn trùng, bỏ qua: Đơn hàng đã được tạo thành công!
+
+
+
+
+
+
+
+
+
+2026-03-25T06:20:04.308Z [error] Redis lỗi: Error: read ECONNRESET
+2026-03-25T06:20:04.314Z [error] Redis lỗi: AggregateError
+2026-03-25T06:20:04.511Z [error] Redis lỗi: AggregateError
+2026-03-25T06:20:04.766Z [error] Redis lỗi: AggregateError
+2026-03-25T06:20:04.984Z [error] Redis lỗi: AggregateError
+2026-03-25T06:20:05.591Z [error] Redis lỗi: AggregateError
+2026-03-25T06:20:06.555Z [error] Redis lỗi: AggregateError
+2026-03-25T06:20:08.185Z [error] Redis lỗi: AggregateError
+2026-03-25T06:20:10.339Z [error] Redis lỗi: AggregateError
